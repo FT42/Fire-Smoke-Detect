@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/firedetect">
-        <file>firedetect.ico</file>
-    </qresource>
-</RCC>
